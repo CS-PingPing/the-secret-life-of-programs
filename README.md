@@ -5,7 +5,7 @@
 
 |주차|내용|링크|
 |------|---|---|
-|1주차 - [halang](https://github.com/haryung-lee)|---|---|
+|1주차 - [halang](https://github.com/haryung-lee)|컴퓨터 내부의 언어 체계|---|
 |2주차|---|---|
 |3주차|---|---|
 
